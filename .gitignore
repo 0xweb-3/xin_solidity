@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# solidity
+artifacts
+cache
+
+# mac
+.idea/
+.DS_Store
